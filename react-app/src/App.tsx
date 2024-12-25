@@ -10,7 +10,6 @@ function App() {
   return (
     <div>
       <Home name="JOHN AKINMOLAYAN" tagline="Welcome to my website" />
-
       <Resume />
       <Projects />
       <Contact />
