@@ -9,7 +9,7 @@ const projects = [
   {
     id: 2,
     name: "Personal Website",
-    link: "https://github.com/ChelseaOkoroji/CMSC447Proj",
+    link: "https://github.com/jakinmol8637/Website.git",
     description: "Website created in React + Typescript + Vite",
   },
 
