@@ -39,7 +39,6 @@ const projects = [
 function Projects() {
   return (
     <div>
-      <h2>PROJECTS</h2>
       <div className="projects-container">
         {projects.map((project) => (
           <div key={project.id} className="project-card">
